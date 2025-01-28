@@ -4,7 +4,10 @@
 The Clinical Collaboration Platform is designed for the healthcare sector. It provides advanced tools to consolidate, manage, and share medical images and reports seamlessly across healthcare organizations of any size.
 	
 ### Vulnerability Description:
-The web application uses the HTTP GET method to process a request and includes sensitive information in the query string of that request.
+3 vulnerabilities were found:
+- Session token being sent using the GET method
+- Due to the session token being in the URL, it is possible to hijack the user's session
+- Weak logout system; even after logging out, the session token remains valid
 
 ### Vulnerability Type:
 CWE-598: Use of GET Request Method With Sensitive Query Strings
