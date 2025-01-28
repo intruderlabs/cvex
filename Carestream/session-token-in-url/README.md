@@ -6,7 +6,7 @@ The Clinical Collaboration Platform is designed for the healthcare sector. It pr
 ### Vulnerability Description:
 3 vulnerabilities were found:
 - Session token being sent using the GET method
-- Due to the session token being in the URL, it is possible to hijack the user's session
+- Session hijacking; if an attacker gains access to the URL containing the session token, they will be able to impersonate the user's account, as there are no protections against session hijacking.
 - Weak logout system; even after logging out, the session token remains valid
 
 ### Vulnerability Type:
