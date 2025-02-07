@@ -36,9 +36,9 @@ No
 Attackers can escape outside of the restricted location to access files or directories that are elsewhere on the system.
 	
 ### Reference:
-https://cwe.mitre.org/data/definitions/35.html
-https://cwe.mitre.org/data/definitions/22.html
-https://owasp.org/www-community/attacks/Path_Traversal
+https://cwe.mitre.org/data/definitions/35.html <br>
+https://cwe.mitre.org/data/definitions/22.html <br>
+https://owasp.org/www-community/attacks/Path_Traversal <br>
 	
 ### Discoverer:
 Kauan Akyra (Ak7r4) | kakyra@intruderlabs.com.br
