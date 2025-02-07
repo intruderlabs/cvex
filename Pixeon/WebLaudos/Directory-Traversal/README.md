@@ -22,7 +22,7 @@ Pixeon
 WebLaudos — 24.2 (04)
 	
 ### Affected Component:
-Endpoint: https://example.com/laudo/multimagem/img/img-cache.asp
+Endpoint: https://example.com/laudo/multimagem/img/img-cache.asp <br>
 Parameter: id
 
 ### Attack Vector:
