@@ -7,7 +7,7 @@ The WebLaudos software developed by Pixeon is a system that manage, and share me
 A path traversal attack (also known as directory traversal) was discovered in the WebLaudos software. This vulnerability allows an attacker to access files and directories stored outside the web root folder. By manipulating the id parameter in the URL using “dot-dot-slash (../)” sequences and their variations or by using absolute file paths, an attacker may be able to access arbitrary files and directories on the file system, including system files.
 
 ### Vulnerability Type:
-CWE-35: Path Traversal: '.../...//'
+CWE-35: Path Traversal
 
 ### Example vulnerable URL 
 The first directories are customizable, so here are three examples of vulnerable URLs:
