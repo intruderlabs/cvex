@@ -24,9 +24,9 @@ Affected Product:
 WebLaudos — 24.2 (04)
 
 Affected Component: <br>
-Endpoint: select-gen/get_async_info.asp
-Parameter (POST): file
-Example payload: file=%2e%2e%5c%5c%2e%2e%5c%5cWindows%5csystem32%5cdrivers%5cetc%5chosts
+Endpoint: select-gen/get_async_info.asp <br>
+Parameter (POST): file <br>
+Example payload: file=%2e%2e%5c%5c%2e%2e%5c%5cWindows%5csystem32%5cdrivers%5cetc%5chosts <br>
 
 Attack Vector:
 Remote
