@@ -9,12 +9,12 @@ A path traversal attack (also known as directory traversal) was discovered in th
 CWE-35: Path Traversal
 
 ### Example vulnerable URL
-The first directories are customizable, so here are three examples of vulnerable URLs:
-https://example.com/laudo/select-gen/get_async_info.asp
+The first directories are customizable, so here are three examples of vulnerable URLs: <br>
+https://example.com/laudo/select-gen/get_async_info.asp <br>
 
-https://example.com/web_laudos/select-gen/get_async_info.asp
+https://example.com/web_laudos/select-gen/get_async_info.asp <br>
 
-https://example.com/select-gen/get_async_info.asp
+https://example.com/select-gen/get_async_info.asp <br>
 
 
 ### Vendor:
