@@ -26,7 +26,7 @@ WebLaudos — 24.2 (04)
 	
 ### Affected Component:
 Endpoint: https://example.com/laudo/multimagem/img/img-cache.asp <br>
-Parameter: id <br>
+Parameter (GET): id <br>
 Example payload: ..%2f..%2f..%2f..%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts
 
 ### Attack Vector:
