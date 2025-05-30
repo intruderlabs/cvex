@@ -10,7 +10,7 @@ A path traversal attack (also known as directory traversal) was discovered in th
 CWE-35: Path Traversal
 
 ### Example vulnerable URL 
-To find hosts vulnerable, you can use the following Google Dork:<br>
+To find vulnerable hosts, you can use the following Google Dork:<br>
 ```intitle:"WebLaudos"```
 <br>
 The first directories are customizable, so here are three examples of vulnerable URLs: <br>
