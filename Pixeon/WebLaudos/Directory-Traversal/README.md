@@ -4,7 +4,7 @@
 The WebLaudos software developed by Pixeon is a system that manage, and share medical images that can be accessed by doctors or patients.
 	
 ### Vulnerability Description:
-A path traversal attack (also known as directory traversal) was discovered in the WebLaudos software. This vulnerability allows an attacker to access files and directories stored outside the web root folder. By manipulating the id parameter in the URL using “dot-dot-slash (../)” sequences and their variations or by using absolute file paths, an attacker may be able to access arbitrary files and directories on the file system, including system files. As demonstrated in the proof of concept below, exploiting this flaw allows access to the img-cache.asp file, which returns the contents of any requested file, in this case: /etc/hosts. <br>
+A path traversal attack (also known as directory traversal) was discovered in the WebLaudos software. This vulnerability allows an attacker to access files and directories stored outside the web root folder. By manipulating the id parameter in the URL using “dot-dot-slash (../)” sequences and their variations or by using absolute file paths, an attacker may be able to access arbitrary files and directories on the file system, including system files. As demonstrated in the proof of concept below, exploiting this flaw allows access to the img-cache.asp file, which returns the contents of any requested file, in this case: /etc/hosts. <br><br>
 ![Proof of concept](Poc_CVE-2025-27956.jpg)
 
 ### Vulnerability Type:
