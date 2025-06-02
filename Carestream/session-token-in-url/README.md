@@ -39,4 +39,4 @@ An attacker can exploit this vulnerability by intercepting requests or accessing
 - https://portswigger.net/kb/issues/00500700_session-token-in-url
 	
 ### Discoverer:
-Kauan Akyra (Ak7r4) | kakyra@intruderlabs.com.br
+Kauan Akyra Watanabe Ferreira (Ak7r4) | kakyra@intruderlabs.com.br
