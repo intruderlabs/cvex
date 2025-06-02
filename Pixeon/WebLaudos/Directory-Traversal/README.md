@@ -45,4 +45,4 @@ https://cwe.mitre.org/data/definitions/22.html <br>
 https://owasp.org/www-community/attacks/Path_Traversal <br>
 	
 ### Discoverer:
-Kauan Akyra (Ak7r4) | kakyra@intruderlabs.com.br
+Kauan Akyra Watanabe Ferreira (Ak7r4) | kakyra@intruderlabs.com.br
